@@ -1,7 +1,7 @@
 
 # ISPC - 1eros Desafios
 
-ste repositorio contiene la resolución de ejercicios realizados durante el primer cuatrimestre de la tecnicatura  de Desarrollo de Software. Los ejercicios están diseñados para fortalecer los conocimientos en Python y su aplicación en diversas problemáticas.
+Este repositorio contiene la resolución de ejercicios realizados durante el primer cuatrimestre de la tecnicatura  de Desarrollo de Software. Los ejercicios están diseñados para fortalecer los conocimientos en Python y su aplicación en diversas problemáticas.
 
 
 ## Authors
